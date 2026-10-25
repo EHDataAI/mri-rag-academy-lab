@@ -1,0 +1,23 @@
+{"id": "Q001", "question": "¿Qué es la resonancia magnética y usa radiación ionizante?", "gold_id": "mri_fundamentos", "split": "dev"}
+{"id": "Q002", "question": "¿Qué es el campo B0 y la precesión de Larmor?", "gold_id": "mri_campo_b0", "split": "dev"}
+{"id": "Q003", "question": "Explica la relajación longitudinal T1.", "gold_id": "mri_t1", "split": "dev"}
+{"id": "Q004", "question": "¿Qué significa T2 en resonancia?", "gold_id": "mri_t2", "split": "dev"}
+{"id": "Q005", "question": "¿Qué es el tiempo de repetición TR y el tiempo de eco TE?", "gold_id": "mri_tr_te", "split": "dev"}
+{"id": "Q006", "question": "¿Para qué sirve la secuencia FLAIR?", "gold_id": "mri_flair", "split": "dev"}
+{"id": "Q007", "question": "¿Qué diferencia hay entre DWI y ADC?", "gold_id": "mri_dwi_adc", "split": "dev"}
+{"id": "Q008", "question": "¿Qué es el DTI?", "gold_id": "mri_dti", "split": "dev"}
+{"id": "Q009", "question": "¿Qué es la relación señal ruido de una bobina?", "gold_id": "mri_snr", "split": "dev"}
+{"id": "Q010", "question": "¿Por qué aparecen imágenes fantasma por movimiento?", "gold_id": "mri_movimiento", "split": "dev"}
+{"id": "Q011", "question": "¿Qué produce artefactos de susceptibilidad?", "gold_id": "mri_susceptibilidad", "split": "dev"}
+{"id": "Q012", "question": "¿Puede el campo magnético generar efecto proyectil?", "gold_id": "mri_proyectiles", "split": "dev"}
+{"id": "Q013", "question": "¿Qué es un implante MR Conditional?", "gold_id": "mri_implantes", "split": "test"}
+{"id": "Q014", "question": "¿Qué es SAR y cómo se relaciona con quemaduras?", "gold_id": "mri_rf_sar", "split": "test"}
+{"id": "Q015", "question": "¿Qué riesgo acústico producen los gradientes?", "gold_id": "mri_ruido", "split": "test"}
+{"id": "Q016", "question": "¿Qué son los medios de contraste con gadolinio?", "gold_id": "mri_contraste", "split": "test"}
+{"id": "Q017", "question": "¿Para qué sirve el cribado de seguridad previo a una RM?", "gold_id": "mri_cribado", "split": "test"}
+{"id": "Q018", "question": "¿Qué hacer para preparar a alguien con claustrofobia para una RM?", "gold_id": "mri_ansiedad", "split": "test"}
+{"id": "Q019", "question": "¿Para qué tejidos blandos se utiliza la RM?", "gold_id": "mri_aplicaciones", "split": "test"}
+{"id": "Q020", "question": "¿La RM usa rayos X ionizantes como una TC?", "gold_id": "mri_ionizante", "split": "test"}
+{"id": "Q021", "question": "¿Cuál es la capital de Chile?", "gold_id": null, "split": "test"}
+{"id": "Q022", "question": "¿Cuánto cuesta un pasaje aéreo a Tokio?", "gold_id": null, "split": "test"}
+{"id": "Q023", "question": "¿Quién ganó el mundial de fútbol de 2014?", "gold_id": null, "split": "test"}

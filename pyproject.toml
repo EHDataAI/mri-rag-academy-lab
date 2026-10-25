@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mri-rag-academy-lab"
+version = "0.1.0"
+description = "RAG educativo, local y trazable para resonancia magnética"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "MRI-RAG Academy contributors"}]
+dependencies = []
+
+[project.optional-dependencies]
+ui = ["streamlit>=1.40,<2"]
+dense = ["sentence-transformers>=3.3,<6", "numpy>=1.26,<3"]
+dev = ["pytest>=8,<10", "ruff>=0.9,<1", "bandit>=1.8,<2", "pip-audit>=2.7,<3"]
+
+[project.scripts]
+mri-rag = "mri_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "UP", "B", "S"]
+ignore = ["S101"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

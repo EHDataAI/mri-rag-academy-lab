@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.sqlite3
+.cache/
+.pytest_cache/
+.ruff_cache/
+*.log
+*.xml
+.coverage
+.env
+*.gguf
+*.safetensors
+.cache_hf/
+local_data/
+reports/
+
+# Security and generated files (RC1)
+.streamlit/secrets.toml
+*.egg-info/
+.env.*
+!/.env.example

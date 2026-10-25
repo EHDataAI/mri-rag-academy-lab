@@ -1,0 +1,5 @@
+# MRI-RAG public demo: install local package + tested UI runtime.
+-c constraints-cloud.txt
+-e .
+streamlit==1.66.1
+Pillow==13.0.0

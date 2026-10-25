@@ -1,0 +1,114 @@
+[
+  {
+    "id": "NIBIB_ES",
+    "title": "NIBIB/NIH - Imagen por Resonancia Magnética (español)",
+    "url": "https://www.nibib.nih.gov/espanol/temas-cientificos/imagen-por-resonancia-magn%C3%A9tica-irm",
+    "rights": "government_text_with_exceptions",
+    "purpose": "fundamentos y seguridad",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "NIBIB_POLICY",
+    "title": "NIBIB - Política de derechos de autor",
+    "url": "https://www.nibib.nih.gov/policies",
+    "rights": "government_text_with_exceptions",
+    "purpose": "derechos",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "FDA_RISK",
+    "title": "FDA - MRI Benefits and Risks",
+    "url": "https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/benefits-and-risks",
+    "rights": "government_text_check_assets",
+    "purpose": "seguridad, dispositivos",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "FDA_GBCA",
+    "title": "FDA - Retención de gadolinio, comunicación de seguridad",
+    "url": "https://www.fda.gov/media/109825/download",
+    "rights": "government_text_check_assets",
+    "purpose": "contrastes; enlace a PDF externo, no redistribuido",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "ACR_2026",
+    "title": "ACR - Manual on MR Safety 2026, página oficial",
+    "url": "https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/radiology-safety/mr-safety",
+    "rights": "link_only_copyright",
+    "purpose": "norma profesional de seguridad",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "MEDLINE_RM",
+    "title": "MedlinePlus NLM - Imágenes por resonancia magnética",
+    "url": "https://medlineplus.gov/spanish/mriscans.html",
+    "rights": "mixed_rights_link_only",
+    "purpose": "educación pacientes",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "MEDLINE_POLICY",
+    "title": "MedlinePlus NLM - Linking to and Using Content",
+    "url": "https://medlineplus.gov/about/using/usingcontent/",
+    "rights": "government_policy",
+    "purpose": "derechos",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "RSNA_RM",
+    "title": "RadiologyInfo (RSNA/ACR) - MRI Safety",
+    "url": "https://www.radiologyinfo.org/en/info/mr",
+    "rights": "link_only_copyright",
+    "purpose": "seguridad pacientes",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "RSNA_POLICY",
+    "title": "RadiologyInfo (RSNA) - copyright",
+    "url": "https://www.radiologyresource.org/content/about/copyright.htm",
+    "rights": "link_only_copyright",
+    "purpose": "derechos",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "OPENSTAX_POLICY",
+    "title": "OpenStax Anatomy & Physiology 2e - Preface",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/preface",
+    "rights": "link_only_ai_restriction",
+    "purpose": "derechos y AI; no ingesta",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "DWI_OA",
+    "title": "Debnam y Schellingerhout (2011) - Diffusion MR Imaging of the Brain in Patients with Cancer (CC BY)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3202134/",
+    "rights": "cc_by_article_no_assets",
+    "purpose": "DWI/ADC; licencia del artículo, no copiar imágenes",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "DWI_REVIEW",
+    "title": "The role of diffusion and perfusion weighted imaging in the differential diagnosis of cerebral tumors",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4331825/",
+    "rights": "link_only_license_unverified",
+    "purpose": "DWI/ADC; licencia no verificada",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "MRI_T1_REVIEW",
+    "title": "T1 relaxation: Chemo-physical fundamentals of MRI (2024)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11315875/",
+    "rights": "link_only_license_unverified",
+    "purpose": "relajación T1; licencia no verificada",
+    "checked_on": "2026-10-20"
+  },
+  {
+    "id": "NEURO_OA",
+    "title": "Selecting Neuroimaging Techniques: A Review for the Clinician",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3869600/",
+    "rights": "link_only_license_unverified",
+    "purpose": "secuencias",
+    "checked_on": "2026-10-20"
+  }
+]
