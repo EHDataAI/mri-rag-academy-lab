@@ -1,4 +1,4 @@
-# MRI-RAG Academy Lab
+# MRI RAG HELPER
 
 > Laboratorio RAG local en español sobre Resonancia Magnética, para estudiantes de salud. **Prototipo de investigación y portafolio: no dispositivo médico, no consejo clínico.**
 
